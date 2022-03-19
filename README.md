@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Equipment Reservation App](https://github.com/BoronSpoon/equipment-reservation)
 
-- 🌱 I’m currently learning **VueJS, GatsbyJS,**
+- 🌱 I’m currently learning **VueJS, Dash, Cytoscape**
 
 - 📝 I regularly write articles on [https://qiita.com/boronspoon](https://qiita.com/boronspoon)
 
