@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Equipment Reservation App](https://github.com/BoronSpoon/equipment-reservation)
 
-- 🌱 I’m currently learning **VueJS, Dash, Cytoscape**
+- 🌱 I’m currently learning **Rust, OpenCV**
 
 - 📝 I regularly write articles on [https://qiita.com/boronspoon](https://qiita.com/boronspoon)
 
-- 💬 Ask me about **Google App Script, Python (OpenCV, matplotlib, numpy)**
+- 💬 Ask me about **Google Apps Script, Python (OpenCV, matplotlib, numpy)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
